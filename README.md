@@ -10,6 +10,7 @@ Installed with docker
 ## Installation 12.12
 
 requires [docker](https://docs.docker.com/engine/install/) and [dockercompose](https://docs.docker.com/compose/install/)
+https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html
 
 ## DAG creation 19:00
 
